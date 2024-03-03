@@ -1,0 +1,6 @@
+{
+    "values": [
+        "command:inv_save/save/trigger",
+        "command:inv_save/load/trigger"
+    ]
+}
